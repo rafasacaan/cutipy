@@ -1,5 +1,9 @@
-# Example Package
+# Cutipy
 
-This is a simple example package. I need to use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write the content.
+This package allows you to apply a predefined set of `rcParams` to format your Matplotlib plots.
+
+## Installation
+
+```bash
+pip install git+https://github.com/rafasacaan/cutipy.git
+```
