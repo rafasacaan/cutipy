@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-def apply_style():
+def cutipy():
   style_params = {
     'axes.titlesize': 14,
     'axes.labelsize': 12,

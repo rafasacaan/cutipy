@@ -1,1 +1,1 @@
-from .cuti import apply_style
+from .cutipy import apply_style
